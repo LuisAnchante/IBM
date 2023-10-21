@@ -1,2 +1,1 @@
-# IBM
-IBM
+# IBM_Capstone
